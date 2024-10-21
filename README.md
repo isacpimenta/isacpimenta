@@ -1,15 +1,14 @@
-## Olá! Eu sou o Isac Pimenta 🙂
+## Olá! Eu sou o Isac Pimenta 🙂  
 Codando até o café acabar… ou até o próximo bug aparecer.
 
 [![SITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://isacpimenta.github.io/###)
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DETONADOS_)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_iscpimenta/)
 
-
-![Isac Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=isacpimenta&show_icons=true&theme=gruvbox)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacpimenta)](https://github.com/isacpimenta/github-readme-stats)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=isacpimenta&show_icons=true&theme=gruvbox" alt="Isac Pimenta GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacpimenta" alt="Top Languages" />
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -21,7 +20,6 @@ Codando até o café acabar… ou até o próximo bug aparecer.
     <img alt="JAVA" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 <br>
-
 
 ## Formas de contato
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/isacpimenta?trk=people_directory)
