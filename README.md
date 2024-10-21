@@ -9,6 +9,8 @@ Codando até o café acabar… ou até o próximo bug aparecer.
 ![Isac Pimenta GitHub stats](https://github-readme-stats.vercel.app/api?username=isacpimenta&show_icons=true&theme=gruvbox)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacpimenta)](https://github.com/isacpimenta/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
