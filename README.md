@@ -5,9 +5,9 @@ Codando até o café acabar… ou até o próximo bug aparecer.
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DETONADOS_)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_iscpimenta/)
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=isacpimenta&show_icons=true&theme=gruvbox" alt="Isac Pimenta GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacpimenta" alt="Top Languages" />
+<div style="display: flex; align-items: flex-start; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=isacpimenta&show_icons=true&theme=gruvbox" alt="Isac Pimenta GitHub stats" style="width: 45%; height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacpimenta" alt="Top Languages" style="width: 45%; height: 200px;" />
 </div>
 
 ## Tecnologias que eu uso no meu dia
